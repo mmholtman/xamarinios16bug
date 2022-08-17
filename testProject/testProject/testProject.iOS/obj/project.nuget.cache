@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSrZaqF+72BdyQI3FrAt6+Hv8WFGgRd0YyjT0oUUxTRBO2IodDa5wnfT0UwTAPmaYRfR2KHyGDRmKJeYSZNMOQ==",
+  "success": true,
+  "projectFilePath": "/Users/holtmam/Projects/testProject/testProject/testProject.iOS/testProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/holtmam/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/holtmam/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/holtmam/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

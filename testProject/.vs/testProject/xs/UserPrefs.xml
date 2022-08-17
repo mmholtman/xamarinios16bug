@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E17D9F6D-AF3B-4776-A535-6437003DE607}|Default">
+  <MonoDevelop.Ide.ItemProperties.testProject.Android FirstBuild="True" PreferredExecutionTarget="Android.android_generic_tablet_7in" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testProject/testProject/Views/ItemsPage.xaml">
+    <Files>
+      <File FileName="testProject/testProject/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="testProject/testProject/Views/AboutPage.xaml" Line="7" Column="28" />
+      <File FileName="testProject/testProject/GettingStarted.txt" Line="1" Column="1" />
+      <File FileName="testProject/testProject/Views/ItemsPage.xaml" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testProject" expanded="True">
+            <Node name="testProject" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testProject.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F48C2CC1-EF53-4FBF-ABEF-C98C800F3B53" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.android_generic_tablet_7in" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
