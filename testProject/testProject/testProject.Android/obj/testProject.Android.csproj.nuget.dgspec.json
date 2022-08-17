@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/holtmam/Projects/testProject/testProject/testProject.Android/testProject.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/holtmam/Projects/testProject/testProject/testProject.Android/testProject.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/holtmam/Projects/testProject/testProject/testProject.Android/testProject.Android.csproj",
+        "projectName": "testProject.Android",
+        "projectPath": "/Users/holtmam/Projects/testProject/testProject/testProject.Android/testProject.Android.csproj",
+        "packagesPath": "/Users/holtmam/.nuget/packages/",
+        "outputPath": "/Users/holtmam/Projects/testProject/testProject/testProject.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/holtmam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "/Users/holtmam/Projects/testProject/testProject/testProject/testProject.csproj": {
+                "projectPath": "/Users/holtmam/Projects/testProject/testProject/testProject/testProject.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/holtmam/Projects/testProject/testProject/testProject/testProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/holtmam/Projects/testProject/testProject/testProject/testProject.csproj",
+        "projectName": "testProject",
+        "projectPath": "/Users/holtmam/Projects/testProject/testProject/testProject/testProject.csproj",
+        "packagesPath": "/Users/holtmam/.nuget/packages/",
+        "outputPath": "/Users/holtmam/Projects/testProject/testProject/testProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/holtmam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
